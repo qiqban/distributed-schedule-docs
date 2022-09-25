@@ -10,7 +10,7 @@ jobs:
     - name: vuepress-deploy
       uses: jenkey2011/vuepress-deploy@master
       env:
-        ACCESS_TOKEN: ${{ secrets.VUEPRESSDEPLOY }}
+        ACCESS_TOKEN: ${{ secrets.VUEPRESS_DEPLOY }}
         TARGET_REPO: qiqban/distributed-schedule-docs
         TARGET_BRANCH: gh-pages
         BUILD_SCRIPT: yarn && yarn build
