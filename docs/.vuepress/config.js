@@ -53,8 +53,12 @@ module.exports = {
         link: '/计划/'
       },
       {
-        text: 'GitHub',
+        text: 'GitHub:项目',
         link: 'https://github.com/waverLv/distributed-schedule-parent'
+      },
+      {
+        text: 'GitHub:文档',
+        link: 'https://github.com/waverLv/distributed-schedule-docs'
       },
     ],
   },
