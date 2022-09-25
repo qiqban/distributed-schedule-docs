@@ -1,15 +1,15 @@
 ---
 home: true
-heroImage: https://qiqban.github.io/distributed-schedule-docs/logo.svg
+heroImage: /logo.svg
 tagline: 
 actionText: 快速开始
 actionLink: /文档/
 features:
-- title: 实践记录
-  details: 反复的实践与反复优化，记录下来的都是最优方案
-- title: 干货
-  details: 迭代式维护笔记，不断地精炼，只留下最清晰的
-- title: 功能齐全
-  details: 不只在纵向探索，需要的，总会完善的
+- title: 分布式
+  details: 负载均衡调度或是广播调度
+- title: 便捷客户端
+  details: 自动扫描注册
+- title: 基于Netty
+  details: 重新定义RPC
 footer: Writen by waverLv & qiqban
 ---
