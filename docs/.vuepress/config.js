@@ -58,7 +58,7 @@ module.exports = {
       },
       {
         text: 'GitHub:文档',
-        link: 'https://github.com/waverLv/distributed-schedule-docs'
+        link: 'https://github.com/qiqban/distributed-schedule-docs'
       },
     ],
   },
