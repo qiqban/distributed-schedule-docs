@@ -1,6 +1,7 @@
 const { description } = require('../../package')
 
 module.exports = {
+  base: '/distributed-schedule-docs/',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
@@ -27,7 +28,6 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    base: '/distributed-schedule-docs/',
     repo: '',
     editLinks: false,
     docsDir: '',
