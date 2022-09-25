@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://qiqban.github.io/distributed-schedule-docs/media/logo.svg
+heroImage: https://qiqban.github.io/distributed-schedule-docs/logo.svg
 tagline: 
 actionText: 快速开始
 actionLink: /文档/
