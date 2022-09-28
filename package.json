@@ -1,13 +1,13 @@
 {
-  "name": "qiqban-docs",
-  "version": "0.0.1",
+  "name": "distributed-schedule-docs",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "authors": {
     "name": "",
     "email": ""
   },
-  "repository": "/qiqban-docs",
+  "repository": "/distributed-schedule-docs",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
